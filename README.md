@@ -31,6 +31,8 @@ To deploy, push your changes to GitHub and enable **GitHub Pages** in repository
 
 ## 🤝 Contributing
 Feel free to fork this repo and submit **pull requests**.
+## ScreenShot
+![SPA App Preview](https://Screenshot 2025-03-17 000429.png)
 
 ## 📧 Contact
 For any queries, email **velikantisubitha@gmail.com** 📩
